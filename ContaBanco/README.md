@@ -9,25 +9,25 @@ banco conforme atributos a baixo:
     
   <tbody align="left">
     <tr>
-      <td>Numero usuario (CVCS)</td>
+      <td>Numero usuario </td>
       <td> inteiro</td>
       <td align="center">
       1021
       </td>
     <tr>
-      <td>Agencia  (CVCS)</td>
+      <td>Agencia </td>
       <td> Texto</td>
       <td align="center">
       067-8
       </td>
     <tr>
-      <td>Nome Cliente (CVCS)</td>
+      <td>Nome Cliente </td>
       <td> Texto</td>
       <td align="center">
      Mario Andrade
       </td>
     <tr>
-      <td>Saldo (CVCS)</td>
+      <td>Saldo </td>
       <td> Decimal</td>
       <td align="center">
        237.48
