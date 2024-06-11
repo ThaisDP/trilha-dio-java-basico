@@ -8,6 +8,6 @@ O sistema deverá receber duas interações via terminal que representem dois n�
 
 - Se o primeiro parâmetro for MAIOR que o segundo parâmetro,você deverá lançar uma exceção personalizada chamada `ParametrosInvalidosException`com a seguinte mensagem: "O segundo parâmetro deve sser maior que o primeiro". 
 
-## 1. Crie o projeto `DesafioCointroleFluxo`
-## 2. Dentro do projeto, crie `Contador.java`para realizar toda a programação do nosso programa.
-## 3. Dentro do projeto, crie um classe `ParametrosInvalidosException`que representará uma exceção de negócio no sistema. 
+`1.` Crie o projeto `DesafioCointroleFluxo`
+`2.` Dentro do projeto, crie `Contador.java`para realizar toda a programação do nosso programa.
+`3.` Dentro do projeto, crie um classe `ParametrosInvalidosException`que representará uma exceção de negócio no sistema. 
